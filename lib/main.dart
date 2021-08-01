@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:imgnrr/pages/home_page.dart';
+import 'package:imgnrr/presentation/pages/home_page.dart';
 
 void main() {
   runApp(ImgnrrApp());
